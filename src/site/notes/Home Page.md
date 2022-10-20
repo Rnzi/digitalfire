@@ -17,7 +17,7 @@
 
 [[note/使用digitalgarden插件要注意的问题|使用digitalgarden插件要注意的问题]]
 
-[[note/second|second]]
+[[second|second]]
 
 [[words/第二个文件夹|第二个文件夹]]
 
