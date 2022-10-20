@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":true}
 ---
 
 
@@ -11,8 +11,7 @@
 
 申请了永久免费域名，暂时这个域名测试用，真实地址是：💎 https://infp.netlify.app
 
-
-下方应有跳转
+![600](https://s2.loli.net/2022/08/07/d5ThCXnBtNQjimf.gif)
 
  [[note/first|first]]
 
