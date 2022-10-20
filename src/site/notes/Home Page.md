@@ -23,3 +23,5 @@
 [[note/如何让Obsidian笔记自动备份到Github|如何让Obsidian笔记自动备份到Github]]
 
 [[words/读书笔记1|读书笔记1]]
+
+[[words/读书笔记2|读书笔记2]]
