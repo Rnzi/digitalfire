@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/second/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false}
+{"dg-publish":true,"permalink":"/note/second/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":true}
 ---
 
 
