@@ -23,7 +23,7 @@
 
 [[words/读书笔记：卡尔维诺 美国讲稿|读书笔记：卡尔维诺 美国讲稿]]
 
-- 使用主题：everforst 
+- 使用主题：everforst | clair de lune |
 - 备选主题：things 
   
 ![180](https://s2.loli.net/2022/08/07/d5ThCXnBtNQjimf.gif)
