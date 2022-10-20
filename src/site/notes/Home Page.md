@@ -11,7 +11,7 @@
 
 申请了永久免费域名，暂时这个域名测试用，真实地址是：💎 https://infp.netlify.app
 
- [[note/first|first]]
+[[note/使用digitalgarden插件要注意的问题|使用digitalgarden插件要注意的问题]]
 
 [[note/second|second]]
 
