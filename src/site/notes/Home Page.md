@@ -21,7 +21,7 @@
 
 [[words/读书笔记1|读书笔记1]]
 
-[[words/读书笔记：卡尔维诺 美国讲稿 booknote Italo Calvino|读书笔记：卡尔维诺 美国讲稿 booknote Italo Calvino]]
+[[words/读书笔记：卡尔维诺 美国讲稿|读书笔记：卡尔维诺 美国讲稿]]
 
 
 ![180](https://s2.loli.net/2022/08/07/d5ThCXnBtNQjimf.gif)
