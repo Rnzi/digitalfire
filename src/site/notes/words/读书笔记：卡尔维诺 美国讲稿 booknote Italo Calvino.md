@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"doc_type":"weread-highlights-reviews","bookId":"24953407","author":"伊塔洛·卡尔维诺","cover":"https://wfqqreader-1252317822.image.myqcloud.com/cover/407/24953407/t7_24953407.jpg","reviewCount":0,"noteCount":38,"isbn":9787544722339,"category":"文学-文学鉴赏","permalink":"/words/booknote-italo-calvino/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":false}
+{"dg-publish":true,"doc_type":"weread-highlights-reviews","bookId":"24953407","author":"伊塔洛·卡尔维诺","cover":"https://wfqqreader-1252317822.image.myqcloud.com/cover/407/24953407/t7_24953407.jpg","reviewCount":0,"noteCount":38,"isbn":9787544722339,"category":"文学-文学鉴赏","permalink":"/words/booknote-italo-calvino/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":true}
 ---
 
 # 元数据
