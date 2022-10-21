@@ -25,7 +25,9 @@
 
 [[words/读书笔记：卡尔维诺 美国讲稿|读书笔记：卡尔维诺 美国讲稿]]
 
-- 使用主题：everforst |
-- 备选主题：things | [discordian](https://github.com/radekkozak/discordian)| Sanctum | 
+[[note/表格测试|表格测试]]
+
+- 使用主题：everforst | 
+- 备选主题：Bracula+LYT | [discordian](https://github.com/radekkozak/discordian)| Sanctum | 
   
 ![180](https://s2.loli.net/2022/08/07/d5ThCXnBtNQjimf.gif)
