@@ -27,7 +27,7 @@
 
 [[note/表格测试|表格测试]]
 
-- 使用主题：everforst | 
+- 使用主题：everforst | Royal velvet | 
 - 备选主题：Bracula+LYT | [discordian](https://github.com/radekkozak/discordian)| Sanctum | 
   
 ![180](https://s2.loli.net/2022/08/07/d5ThCXnBtNQjimf.gif)
