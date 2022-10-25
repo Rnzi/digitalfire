@@ -24,6 +24,8 @@
 
 [[note/表格测试|表格测试]]
 
+[[note/饼图测试|饼图测试]]
+
 [[words/Advanced slides笔记|Advanced slides笔记]]
 
 - 使用主题：everforst | Royal velvet | 
