@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/note/first/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":true}
+{"dg-publish":true,"permalink":"/note/first/","dgPassFrontmatter":true}
 ---
 
 ## 第一篇测试
