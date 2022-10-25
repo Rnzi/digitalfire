@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-permalink":"如何让Obsidian笔记自动备份到Github","permalink":"/如何让Obsidian笔记自动备份到Github/","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":true}
+{"dg-publish":true,"dg-permalink":"如何让Obsidian笔记自动备份到Github","permalink":"/如何让Obsidian笔记自动备份到Github/","dgPassFrontmatter":true}
 ---
 
 
