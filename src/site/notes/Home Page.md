@@ -1,10 +1,10 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":true,"dgShowBacklinks":false,"dgShowLocalGraph":true,"dgShowInlineTitle":true}
+{"dg-home":true,"dg-publish":true,"permalink":"/home-page/","tags":"gardenEntry","dgPassFrontmatter":true}
 ---
 
 
 
-# 🌱Rnzi的数字花园🍀
+# Rnzi的数字花园🍀
 
 ## 二级标题
 ### 三级标题
@@ -27,7 +27,11 @@
 
 [[note/表格测试|表格测试]]
 
+[[words/Advanced slides笔记|Advanced slides笔记]]
+
 - 使用主题：everforst | Royal velvet | 
 - 备选主题：Bracula+LYT | [discordian](https://github.com/radekkozak/discordian)| Sanctum | 
   
 ![180](https://s2.loli.net/2022/08/07/d5ThCXnBtNQjimf.gif)
+
+
