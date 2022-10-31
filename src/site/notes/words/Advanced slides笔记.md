@@ -29,14 +29,16 @@ center: true
 theme: black
 ---
 ### 我的Notion共享
+```css
 <grid drop="0 8" drag="100 92">
 
 <iframe id="mlops" width="100%" height="100%" data-src="https://marbled-popcorn-fba.notion.site/bb0bfe74365646399030ca4891ff3114" data-preload data-background-interactive></iframe>
 
 </grid>
+```
 ---
 使用代码
-```
+```css
 <grid drop="0 8" drag="100 92">
 
 <iframe id="mlops" width="100%" height="100%" data-src="https://marbled-popcorn-fba.notion.site/bb0bfe74365646399030ca4891ff3114" data-preload data-background-interactive></iframe>
