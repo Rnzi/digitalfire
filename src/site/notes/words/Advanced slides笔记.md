@@ -143,8 +143,8 @@ Paragraph has coral background color, too!
 
 ### excalidraw支持
 ```
-![[Sample.excalidraw|100]]
+![[Sample.excalidraw\|100]]
 
-![[Sample.excalidraw|Sample.excalidraw]] <!-- element style="width:300px; height:400px" -->
+![[Sample.excalidraw\|Sample.excalidraw]] <!-- element style="width:300px; height:400px" -->
 
 ```
