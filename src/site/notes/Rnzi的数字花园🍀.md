@@ -12,8 +12,10 @@
 
 ##### 测试无序列表
 - www.baidu.con
-- www.google.com
+- [[note/饼图测试\|饼图测试]]
 - https://infp.netlify.app
+	- https://infp.netlify.app
+		- https://infp.netlify.app
 
 申请了永久免费域名，暂时这个域名测试用，真实地址是：💎 https://infp.netlify.app
 
