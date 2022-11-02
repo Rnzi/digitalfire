@@ -13,6 +13,15 @@
 ##### 测试无序列表
 - www.baidu.con
 - [[note/饼图测试\|饼图测试]]
+- [[note/使用digitalgarden插件要注意的问题\|使用digitalgarden插件要注意的问题]]
+- [[words/配置oh my zsh\|配置oh my zsh]]
+- [[note/如何让Obsidian笔记自动备份到Github\|如何让Obsidian笔记自动备份到Github]]
+- [[words/使用Callout Blocks来美观地组织你的文档\|使用Callout Blocks来美观地组织你的文档]]
+- [[words/读书笔记：无限恐怖\|读书笔记：无限恐怖]]
+- [[words/读书笔记：卡尔维诺 美国讲稿\|读书笔记：卡尔维诺 美国讲稿]]
+- [[note/表格测试\|表格测试]]
+- [[note/饼图测试\|饼图测试]]
+- [[words/Advanced slides笔记\|Advanced slides笔记]]
 - https://infp.netlify.app
 	- https://infp.netlify.app
 		- https://infp.netlify.app
