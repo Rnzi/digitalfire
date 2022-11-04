@@ -1,5 +1,5 @@
 ---
-{"dg-home":true,"dg-publish":true,"permalink":"/rnzi/","tags":"gardenEntry","dgPassFrontmatter":true}
+{"dg-home":true,"dg-publish":true,"dg-show-file-tree":true,"permalink":"/rnzi/","tags":"gardenEntry","dgShowFileTree":true,"dgPassFrontmatter":true}
 ---
 
 
